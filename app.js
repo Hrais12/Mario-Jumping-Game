@@ -77,6 +77,3 @@ const checkCollision = setInterval(function() {
 }, 15);
 
 
-
-
-
